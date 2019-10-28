@@ -1,0 +1,16 @@
+[ {
+    "name": "musicfest",
+    "bands": [ {
+        "name": "band",
+        "recordLabel": "recordLabel"
+    } ]
+}, {
+    "name": "musicfest2",
+    "bands": [ {
+        "name": "band2",
+        "recordLabel": "recordLabel2"
+    }, {
+        "name": "band",
+        "recordLabel": "recordLabel"
+    } ]
+} ]
